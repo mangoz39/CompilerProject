@@ -1,2 +1,2 @@
 # CompilerProject
-A little project for compiler course using PLY(Python-Lex-Yacc)
+A project for compiler course using PLY(Python-Lex-Yacc)
